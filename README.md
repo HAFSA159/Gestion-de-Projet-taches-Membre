@@ -76,12 +76,7 @@ Ce projet vise à développer une application web collaborative pour la gestion 
 
 ## 👥 Collaborateurs
 - Hafsa Elmoatassim billah : Scrum Master / Backend & Frontend Developer
-- Abdelhamid Lamtioui : Backend & Frontend Developer
-- Naoufal Lebrihmi : Développeur
 
-```
-Would you like me to explain or break down any part of this README?
-```
 
 
 
